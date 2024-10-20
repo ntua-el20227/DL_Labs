@@ -1,6 +1,3 @@
-Here’s a GitHub README.md draft for the "Image Classification on CIFAR-10" task:
-
----
 
 # Deep Learning Lab Exercise 1: Image Classification on CIFAR-10
 
